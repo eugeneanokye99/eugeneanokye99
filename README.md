@@ -2,13 +2,9 @@
   <img  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZteGU1eWhtbW5qcTFhczZtb255OXI3eWttbzV4OGxwdHF2dmJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="200" style="border-radius: 50px;" />
 </div>
 
+
 <div align="center">
-  <a href="https://jeffmint.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-blue?style=for-the-badge&logo=hashnode&logoColor=white">
-  </a>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeffrey-m-a846a2229">
+  <a href="https://www.linkedin.com/in/eugene-anokye-8a2a8222b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -22,7 +18,7 @@
 
 
 
- I love making interesting stuff with Programming.
+I am very passionate about technology and intend to use it to make the lives of millions easier and also less stressful. 
 
 - 🔭 I'm currently diving into projects that redefine how users engage with digital platforms.
 
@@ -37,10 +33,10 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Minty-cyber&theme=dark)](https://git.io/streak-stats)                    <img src="https://github-readme-stats.vercel.app/api?username=Minty-cyber&show_icons=true&theme=synthwave" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eugeneanokye99&theme=dark)](https://git.io/streak-stats)                    <img src="https://github-readme-stats.vercel.app/api?username=eugeneanokye99&show_icons=true&theme=synthwave" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minty-cyber&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeneanokye99&layout=compact&theme=dark" />
 
 
 
